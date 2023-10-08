@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Python, HTML & CSS.
 - 💞️ I’m looking to collaborate on replit or anything.
 - 📫 Socials:
- Instagram: [@rya.nn21](https://www.instagram.com/rya.nn21/)
- Discord: ryxn#0847
+ Instagram: [@r.yxn21](https://www.instagram.com/r.yxn21)
+ Discord: r.yxn21
 
 <!---
 ryxn21/ryxn21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
