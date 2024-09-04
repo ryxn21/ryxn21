@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ryxn21!
-- 👀 I’m interested in learning JS and React Native.
+- 👀 I’m interested in learning JS.
 - 🌱 I’m currently learning Python, HTML & CSS.
-- 💞️ I’m looking to collaborate on replit or anything.
 - 📫 Socials:
  Instagram: [@r.yxn21](https://www.instagram.com/r.yxn21)
  Discord: r.yxn21
